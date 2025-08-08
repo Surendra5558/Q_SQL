@@ -3,7 +3,7 @@ FROM mcr.microsoft.com/mssql/server:2022-latest
 
 # Set environment variables
 ENV ACCEPT_EULA=Y
-ENV SA_PASSWORD=YourStrong!Pass123
+ENV SA_PASSWORD=DtestSol@2021
 
 # Expose SQL Server port
 EXPOSE 1433
